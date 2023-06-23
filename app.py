@@ -187,7 +187,7 @@ if st.button('👹 Generar nuevas ideas para la comunicación 👹'):
         st.subheader('**Paso: Falcarse**')
         st.write(falcarse_sample)
 
-        st.subheader('**Paso: Valor 1**')
+        st.subheader('**Paso: 1 storytelling (Inicio, nudo, descenlace) seguido de Valor 1**')
         st.write(valor_1_sample)
 
         st.subheader('**Paso: Aislar**')
@@ -196,7 +196,7 @@ if st.button('👹 Generar nuevas ideas para la comunicación 👹'):
         st.subheader('**Paso: Sexualizar**')
         st.write(sexualizar_sample)
 
-        st.subheader('**Paso: Valor 2**')
+        st.subheader('**Paso: 1 storytelling (Inicio, nudo, descenlace) seguido de Valor 2**')
         st.write(valor_2_sample)
 
         st.subheader('**Paso: Analizar IDIS**')
